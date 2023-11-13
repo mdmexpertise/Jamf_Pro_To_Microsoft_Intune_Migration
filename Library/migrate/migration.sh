@@ -9,9 +9,9 @@ icon="/Library/migrate/Mobile_Device_Management_MDM.png"
 info_URL="https://learn.microsoft.com/en-us/mem/intune/fundamentals/what-is-intune"
 
 #JamfPro API Details
-JamfURL="https://caper.springernature.com:8443" #ex: https://caper.domain.com:8443
-client_id="a9517aeb-aead-4f05-830b-604c2317e86b"
-client_secret="4aj82CVzDFHBW8HXNrC24_K5PhOZ5t_JfamMXdFqqeAV1t3myuoFdA1eOiJiykBG"
+JamfURL="" #ex: https://caper.domain.com:8443
+client_id=""
+client_secret=""
 
 # Path to SwiftDialog
 dialogPath="/usr/local/bin/dialog"
