@@ -1,3 +1,11 @@
+  -Download the folders Library and tmp. Fill the variables in the script migration.sh under /Library/migrate/.
+  
+  -Create a package with these folders and add the postinstall script to the package.
+  
+  -Deploy to the devices which has to migrated from Jamf Pro to Microsoft Intune.
+   
+  **End user experience**
+   
    **Step 1:** A popup window as below will appear on screen.
 
 ![image](https://github.com/mdmexpertise/Jamf_Pro_To_Microsoft_Intune_Migration/assets/149251497/eb90681e-4113-485f-82af-adf8efb50e44)
